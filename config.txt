@@ -37,7 +37,7 @@ prefix = "@mention"
 // where X is the title. If you don't include an action, it will use the
 // default of "Playing"
 
-game = "DEFAULT"
+game = "Listening to"
 
 
 // If you set this, it will modify the default status of bot
